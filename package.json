@@ -6,7 +6,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "temp-write": "^2.1.0",
-    "reflectionjs": "~1.0.0"
+    "reflection-instrumenter": "~1.0.0"
   }
 }
