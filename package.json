@@ -1,11 +1,15 @@
 {
   "name": "karma-reflection",
-  "version": "1.0.0",
-  "description": "",
+  "version": "0.1.0",
+  "description": "A Karma plugin providing a reflection API to sources",
   "main": "lib/index.js",
-  "author": "",
-  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yannickglt/karma-reflection.git"
+  },
+  "author": "Yannick Galatol <yannick.galatol@gmail.com>",
+  "license": "MIT",
   "dependencies": {
-    "reflection-instrumenter": "~1.0.0"
+    "reflection-instrumenter": "^0.1.0"
   }
 }
